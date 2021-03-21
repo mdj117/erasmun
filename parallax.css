@@ -1,6 +1,6 @@
 .parallax { 
     /* The image used */
-    background-image: url("assets/images/building.png");
+    background-image: url("Assets/images/building.png");
 
     /* Set a specific height */
     min-height: 900px; 
@@ -25,7 +25,7 @@
 
 .rotterdam-parallax { 
     /* The image used */
-    background-image: url("assets/images/rotterdam-skyline.jpg");
+    background-image: url("Assets/images/rotterdam-skyline.jpg");
 
     /* Set a specific height */
     min-height: 900px; 
@@ -51,7 +51,7 @@
 
 .what-parallax { 
     /* The image used */
-    background-image: url("assets/images/whatwedo.png");
+    background-image: url("Assets/images/whatwedo.png");
 
     /* Set a specific height */
     min-height: 1000px; 
@@ -77,7 +77,7 @@
 
 .who-parallax { 
     /* The image used */
-    background-image: url("assets/images/who.png");
+    background-image: url("Assets/images/who.png");
 
     /* Set a specific height */
     min-height: 1000px; 
@@ -103,7 +103,7 @@
 
 .whocom-parallax { 
     /* The image used */
-    background-image: url("assets/images/whocom.png");
+    background-image: url("Assets/images/whocom.png");
 
     /* Set a specific height */
     min-height: 600px; 
@@ -128,7 +128,7 @@
 
 .unep-parallax { 
     /* The image used */
-    background-image: url("assets/images/unep.svg");
+    background-image: url("Assets/images/unep.svg");
 
     /* Set a specific height */
     min-height: 600px; 
@@ -154,7 +154,7 @@
 
 .eu-parallax { 
     /* The image used */
-    background-image: url("assets/images/eu.svg");
+    background-image: url("Assets/images/eu.svg");
 
     /* Set a specific height */
     min-height: 600px; 
