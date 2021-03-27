@@ -3,7 +3,7 @@
     background-image: url("images/building.png");
 
     /* Set a specific height */
-    min-height: 900px; 
+    min-height: 700px; 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
@@ -28,7 +28,7 @@
     background-image: url("images/rotterdam-skyline.jpg");
 
     /* Set a specific height */
-    min-height: 900px; 
+    min-height: 600px; 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
@@ -54,7 +54,7 @@
     background-image: url("images/whatwedo.png");
 
     /* Set a specific height */
-    min-height: 1000px; 
+    min-height: 700px; 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
@@ -80,7 +80,7 @@
     background-image: url("images/who.png");
 
     /* Set a specific height */
-    min-height: 1000px; 
+    min-height: 700px; 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
@@ -106,7 +106,7 @@
     background-image: url("images/whocom.png");
 
     /* Set a specific height */
-    min-height: 600px; 
+    min-height: 500px; 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
@@ -115,13 +115,13 @@
     margin: 0;
     text-align: center;
     color: white;
-    text-shadow: 0.2vw 0.2vw 0.5vw black;
+    text-shadow: 0.3vw 0.3vw 0.6vw black;
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 7vw;
+    font-size: 8vw;
     font-family: 'Roboto', sans-serif;
-    font-weight: lighter;
+    font-weight: bold;
     letter-spacing: 0.02em;
 }
 
@@ -131,7 +131,7 @@
     background-image: url("images/unep.svg");
 
     /* Set a specific height */
-    min-height: 600px; 
+    min-height: 500px; 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
@@ -139,6 +139,56 @@
     background-size: cover;
     margin: 0;
 
+    text-align: center;
+    color: white;
+    text-shadow: 0.3vw 0.3vw 0.6vw black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 8vw;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    letter-spacing: 0.02em;
+}
+
+
+.eu-parallax { 
+    /* The image used */
+    background-image: url("images/eu.svg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    text-align: center;
+    color: white;
+    text-shadow: 0.3vw 0.3vw 0.6vw black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 8vw;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    letter-spacing: 0.02em;
+}
+
+
+.gather1-parallax { 
+    /* The image used */
+    background-image: url("images/gathertown_1.jpg");
+
+    /* Set a specific height */
+    min-height: 600px; 
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
     text-align: center;
     color: white;
     text-shadow: 0.2vw 0.2vw 0.5vw black;
@@ -151,10 +201,33 @@
     letter-spacing: 0.02em;
 }
 
-
-.eu-parallax { 
+.gather2-parallax { 
     /* The image used */
-    background-image: url("images/eu.svg");
+    background-image: url("images/gathertown_2.jpg");
+
+    /* Set a specific height */
+    min-height: 600px; 
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    text-align: center;
+    color: white;
+    text-shadow: 0.2vw 0.2vw 0.5vw black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 7vw;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    letter-spacing: 0.02em;
+}
+
+.gather3-parallax { 
+    /* The image used */
+    background-image: url("images/gathertown_3.jpg");
 
     /* Set a specific height */
     min-height: 600px; 

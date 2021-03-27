@@ -32,8 +32,19 @@ html, body {
 .center_down {
   margin: 0;
   position: absolute;
-  top: 900px;
-  left: 6em;
+  top: 650px;
+  right: 30%;
+  left: 30%;
+  
+}
+
+
+.center_down_com {
+  margin: 0;
+  position: absolute;
+  top: 500px;
+  right: 30%;
+  left: 30%;
   
 }
 
