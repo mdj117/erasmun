@@ -49,14 +49,14 @@ html, body {
 }
 
 .container-fluid-orange {
-padding: 5em !important;
+padding: 3.5em !important;
 background-color: #ff4f00;
 font-family: 'Roboto';
 text-align: left;
 color: white;
 align-items: center;
 justify-content: center;
-font-size: 2.5vw;
+font-size: 3vw;
 font-weight: lighter;
 letter-spacing: 0.02em;
 opacity: 0.9;
@@ -79,12 +79,12 @@ opacity: 0.9;
 }
 
 .container-fluid-white {
-padding: 5em !important;
+padding: 3em !important;
 background-color: white;
 font-family: 'Times New Roman';
 text-align: left;
 color: black;
-font-size: 2vw;
+font-size: 3vw;
 font-weight: lighter;
 letter-spacing: 0.02em;
 opacity: 0.9;
@@ -99,7 +99,7 @@ opacity: 0.9;
   color: white;
   align-items: center;
   justify-content: center;
-  font-size: 2vw;
+  font-size: 1vw;
   font-weight: lighter;
   letter-spacing: 0.02em;
 }
