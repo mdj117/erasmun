@@ -1,6 +1,6 @@
 .parallax { 
     /* The image used */
-    background-image: url("images/building.png");
+    background-image: url("images/main.png");
 
     /* Set a specific height */
     min-height: 700px; 
@@ -13,11 +13,11 @@
 
     text-align: center;
     color: white;
-    text-shadow: 0.2vw 0.2vw 0.5vw black;
+    text-shadow: 0.3vw 0.3vw 0.6vw black;
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 7vw;
+    font-size: 9vw;
     font-family: 'Roboto', sans-serif;
     font-weight: lighter;
     letter-spacing: 0.02em;
@@ -42,7 +42,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 5.5vw;
+    font-size: 7vw;
     font-family: 'Roboto', sans-serif;
     font-weight: lighter;
     letter-spacing: 0.02em;
